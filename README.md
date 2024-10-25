@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about web developing, finance and d
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/vitors-reis)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([www.linkedin.com/in/vitors-reis](https://www.linkedin.com/in/vitors-reis/))
 [![Email](https://img.shields.io/badge/-Email-gray?style=flat&logo=gmail)](vitordesouzareis@gmail.com)
 
 ---
