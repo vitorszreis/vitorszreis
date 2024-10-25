@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about web developing, finance and d
 - 💻 **Experience**: Skilled in Javascript and React.
 - 📚 **Currently Learning**: Focused on learning Python.
 - 🎯 **Goals**: Build a personal portfolio and enhance my profile
-- 💼 **Projects**: Working in progress...
+- 💼 **Projects**: Work in progress...
 
 ## Skills
 
